@@ -6,11 +6,9 @@ public class olaMundo {
 	
 	public static void main(String[] args) {
 		System.out.println("Olá Mundo");
-		
-		
+		System.out.println("GCMS 2023-1");
+		System.out.println("Novo Print");
 	}
-
-
 
 	public int getNumero() {
 		return numero;
