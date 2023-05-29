@@ -8,10 +8,10 @@ public class olaMundo {
 		System.out.println("Olá Mundo");
 		System.out.println("Olá Mundo2");
 		System.out.println("Olá Mundo3");
-
+		
+		System.out.println("GCMS 2023-1");
+		System.out.println("Novo Print");
 	}
-
-
 
 	public int getNumero() {
 		return numero;
